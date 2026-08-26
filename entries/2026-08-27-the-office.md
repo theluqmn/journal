@@ -1,7 +1,7 @@
 ---
 title: Building The Office
-date: 27th August 2026
 description: The story behind the development of The Office, the software and technology involved.
+date: 27th August 2026
 ---
 
 The Office is my craziest web project yet. I'll be sharing with you why
